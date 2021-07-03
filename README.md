@@ -1,6 +1,6 @@
 # skills
 
 ## Python
-- DataScience(Numpy, Pandas, Matplotlib and more!)
+- DataScience(Numpy, Pandas, Matplotlib, Plotly and more!)
 - ML(torch, tensor)
 - [ElasticSearch](https://github.com/HinataAoki/skills/tree/main/ElasticSearch)
