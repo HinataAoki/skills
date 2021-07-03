@@ -8,6 +8,7 @@
 - [ElasticSearch](https://github.com/HinataAoki/skills/tree/main/ElasticSearch)
 - [NER](https://github.com/HinataAoki/skills/tree/main/NER)
 - D-Wave
+- ObjectDetection
 
 ## Web
 - HTML, CSS
