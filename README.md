@@ -6,7 +6,7 @@
 - Web(flask, Django)
 - Scrayping
 - [ElasticSearch](https://github.com/HinataAoki/skills/tree/main/ElasticSearch)
-- NER
+- [NER](https://github.com/HinataAoki/skills/tree/main/NER)
 - D-Wave
 
 ## Web
