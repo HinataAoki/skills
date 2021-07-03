@@ -8,3 +8,11 @@
 - [ElasticSearch](https://github.com/HinataAoki/skills/tree/main/ElasticSearch)
 - NER
 - D-Wave
+
+## GoogleService
+- GoogleAnalytics
+- Google Ads
+- SpreadSheet
+- GAS
+  - Scrayping
+  - Mail
