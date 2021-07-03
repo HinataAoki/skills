@@ -9,6 +9,14 @@
 - NER
 - D-Wave
 
+## Web
+- HTML, CSS
+- JavaScripts
+  - ReactJS
+    - GatsbyJS
+    - NuxtJS
+  - Vue
+
 ## CloudService
 ### GoogleService
 - GCP
