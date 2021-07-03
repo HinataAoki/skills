@@ -9,10 +9,15 @@
 - NER
 - D-Wave
 
-## GoogleService
+## CloudService
+### GoogleService
+- GCP
 - GoogleAnalytics
 - Google Ads
 - SpreadSheet
 - GAS
   - Scrayping
   - Mail
+
+### Amazon(AWS)
+~GCP is more accustomed to AWS~
