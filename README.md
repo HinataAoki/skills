@@ -16,7 +16,7 @@
     - GatsbyJS
       - [MyBlog is powered by Gatsby](https://hinablog.netlify.app/)
     - NuxtJS
-  - Vue
+  - Vue.js
 
 ## CloudService
 ### GoogleService
