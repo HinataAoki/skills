@@ -34,4 +34,4 @@
   - Mail
 
 ### Amazon(AWS)
-~GCP is more accustomed to AWS~
+~I'm more familiar with GCP than AWS.~
